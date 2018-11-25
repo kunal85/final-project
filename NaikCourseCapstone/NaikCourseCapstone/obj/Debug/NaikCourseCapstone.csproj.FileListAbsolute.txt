@@ -1,0 +1,30 @@
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.exe.config
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.exe
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.pdb
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csprojAssemblyReference.cache
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.Form1.resources
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.Properties.Resources.resources
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csproj.GenerateResource.cache
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csproj.CoreCompileInputs.cache
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.exe
+C:\Users\naikk\source\repos\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.pdb
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.exe.config
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.exe
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.pdb
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csprojAssemblyReference.cache
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.Form1.resources
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.Properties.Resources.resources
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csproj.GenerateResource.cache
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csproj.CoreCompileInputs.cache
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.exe
+C:\Users\naikk\Desktop\.Net programming\Final Project\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.pdb
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.exe.config
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.exe
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\bin\Debug\NaikCourseCapstone.pdb
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csprojAssemblyReference.cache
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.Form1.resources
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.Properties.Resources.resources
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csproj.GenerateResource.cache
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.csproj.CoreCompileInputs.cache
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.exe
+C:\Users\naikk\Desktop\.Net programming\Final Project - Copy\NaikCourseCapstone\NaikCourseCapstone\obj\Debug\NaikCourseCapstone.pdb
